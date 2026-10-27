@@ -77,7 +77,8 @@ canonical.</sub>
 ## Workshops
 
 Hands-on builds authored or maintained for AWS Workshop Studio, delivered by AWS field teams to
-customer engineering audiences.
+customer engineering audiences. Where a repository is linked, it is the self-paced version of the
+same material.
 
 <!-- Catalog URLs still to assign to the three unlinked entries below:
      https://catalog.us-east-1.prod.workshops.aws/workshops/27512c1c-fa03-4269-916e-570ece517631/en-US
@@ -91,6 +92,7 @@ customer engineering audiences.
 - **[Retail/CPG multi-agent with MCP, Strands and AgentCore](https://catalog.workshops.aws/retail-multi-agent-mcp-strands-agentcore/en-US)**
   — authored. Designed around three AgentCore deployment topologies (agents-as-tools → boto3
   invocation → A2A protocol) as a crawl/walk/run maturity model; delivered at 150+ events.
+  [Labs and code →](https://github.com/rasripa/rs-agentic-ai-strands-agents-and-mcp-retail-cpg)
 - **Auto ML pipeline for custom telco language models in Amazon Connect**
   — authored; delivered at re:Invent 2025 as IND337. End-to-end domain adaptation: Glue cataloguing
   the corpus, SageMaker fine-tuning Llama models trained on Trainium, Bedrock serving, and Amazon
@@ -102,14 +104,14 @@ customer engineering audiences.
   integration, culminating in a billing assistant with a chat UI deployed to Bedrock AgentCore
   Runtime, then spec-driven development and multi-agent orchestration. No prior agent experience
   assumed.
-- **Debug LLM bottlenecks with NVIDIA Nsight and Kiro CLI** — authored; delivered at re:Invent 2025
-  as AIM315. Profiling LLM training and inference pipelines on GPU infrastructure with Nsight to
-  locate bottlenecks, then using Kiro to accelerate report analysis, comparison and code-level fix
-  recommendations. *Archived — no public access.*
-- **Building Intelligent Network Operations with Strands Agents and Amazon Bedrock AgentCore**
+- **[Debug LLM bottlenecks with NVIDIA Nsight](https://github.com/rasripa/rs-debug-llm-bottlenecks-with-nvidia-nsight)**
+  — authored; delivered at re:Invent 2025 as AIM315. Profiling LLM training and inference pipelines
+  on GPU infrastructure with Nsight to locate bottlenecks, then accelerating report analysis and
+  comparison. Baseline/optimised notebook pairs plus 32 annotated Nsight timeline captures, so the
+  diagnosis can be followed without a GPU.
+- **[Building Intelligent Network Operations with Strands Agents and Amazon Bedrock AgentCore](https://github.com/rasripa/rs-agentic-ai-with-strands-and-bedrock-agentcore-telecom)**
   — authored; 25+ events. A telecom-focused build for architects, generative AI developers and ML
   engineers: implementing an agentic solution with Strands and deploying it to Bedrock AgentCore.
-  *Archived — no public access.*
 
 ## Open source
 
