@@ -112,6 +112,12 @@ same material.
 - **[Building Intelligent Network Operations with Strands Agents and Amazon Bedrock AgentCore](https://github.com/rasripa/rs-agentic-ai-with-strands-and-bedrock-agentcore-telecom)**
   — authored; 25+ events. A telecom-focused build for architects, generative AI developers and ML
   engineers: implementing an agentic solution with Strands and deploying it to Bedrock AgentCore.
+- **[GenAI workshop for peer AWS Solutions Architects](https://github.com/rasripa/gen-ai-workshop)**
+  — July–August 2023, authored and delivered to the UKI Enterprise Retail SA team. Built before
+  Amazon Bedrock was generally available: FLAN-T5-XXL and GPT-J-6B on SageMaker JumpStart
+  endpoints, embeddings served from a second endpoint, retrieval assembled by hand with LangChain,
+  and fine-tuning through the SageMaker training API. Kept as a snapshot of that stack rather than
+  updated to the current one.
 
 ## Open source
 
