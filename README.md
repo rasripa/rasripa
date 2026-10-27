@@ -21,6 +21,7 @@ which is AWS validating the design.
   and Claude 3 Sonnet over OpenSearch Serverless k-NN, fronted by API Gateway and Lambda, deployed
   by CDK. Ships the architecture, an 11-step request flow and a cost model.
   [Companion notebooks →](https://github.com/aws-samples/visual-search-for-retail-with-amazon-bedrock-and-amazon-opensearch-notebooks)
+  · [the research behind it →](https://github.com/rasripa/rs-visual-search-research)
 - **[Guidance for Analyzing Customer Conversations on AWS](https://docs.aws.amazon.com/solutions/analyzing-customer-conversations-on-aws/)**
   — *named author.* Contact-centre calls and chat transcripts to structured insight: Transcribe into
   Bedrock Claude 3 Sonnet for summarisation, dual-sided sentiment and action items, with DynamoDB
